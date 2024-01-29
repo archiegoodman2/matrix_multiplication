@@ -1,13 +1,5 @@
-# neural_net
-WORK IN PROGRESS
+#simple matrix mulitplication function
 
-Full stack translation app. Takes images of handwritten words and translates them to a foreign language using LibreTranslate API.
+This was created to understand more about how dot products and matrices work. 
 
-Stack: MERN
-
-Mongo DB (translation history)
-Express.js for any APIs to retrieve/post translation history
-React front end - frontend to include picture upload page, page to view current translations and prior ones
-Node - running on Node runtime - may potentially upgrade to bun if I purchase a mac/download linux 
-
-Will potentially pivot to React Native and transition to a mobile app 
+Will mulitply any 2 matrices/vectors up to 2D
