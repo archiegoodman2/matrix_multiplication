@@ -1,5 +1,8 @@
 const { getNumDimensions, dotProduct } = require('./functions');
 
+//note - more test cases to come, i.e. need to add edge cases and test error throwing
+
+
 // Test for getting number of dimensions for 1D arrays
 test('getting number of dimensions works for 1D arrays', () => {
   const onedimensionalmatrix = [1, 2, 3];
