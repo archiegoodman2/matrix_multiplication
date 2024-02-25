@@ -55,3 +55,5 @@ test('correct error message when multiplying incompatible vector and matrix', ()
   ];
   expect(() => dotProduct(vector, matrix)).toThrow("Incompatible matrix and vector sizes for multiplication");
 });
+
+//ideas for more tests: test two 2d matrices
